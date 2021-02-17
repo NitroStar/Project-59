@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background: linear-gradient(#304FFE 0%, #DD2C00 100%);
+    background-repeat: no-repeat;
+}
+
+#Ball {
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+}
+
+#Para {
+    font-size: 40px;
+}
+
+#h1 {
+    font-size: 50px
+}
